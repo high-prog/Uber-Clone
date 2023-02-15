@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "01e3123a-1626-41c4-bdb9-906530b01cd6"
+      }
+    },
+    "owner": "high-prog"
   }
 }
